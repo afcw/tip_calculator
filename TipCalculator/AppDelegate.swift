@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  TipCalculator
 //
-//  Created by Ollie Tiu on 9/17/14.
+//  Created by Wanda Cheung on 9/17/14.
 //  Copyright (c) 2014 Wanda Cheung. All rights reserved.
 //
 
