@@ -1,0 +1,7 @@
+Tip calculator using Swift 
+
+Features:
+ - Dynamically updates as user enters bill amount
+ - Immediately updates tip and bill amount when tip percentage is changed
+ - Automatically Calculates split amount when split by field is greater than 1.
+ - Settings view for user to set default tip percentage and how to split the bill. Values are immediately saved and calculations on the main view are updated to reflect the updated values. 
